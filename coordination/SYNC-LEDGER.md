@@ -29,9 +29,9 @@
 | Commit | Hash | Files | Description | Status |
 |--------|------|-------|-------------|--------|
 | 1 | 81cf63a | 4 | Initial: Convergence Day + MBA + Cetacean Dreams | ✅ Local |
-| 2 | TBD | TBD | Characters + Protocols | 🟡 Pending |
+| 2 | 01657f3 | 5 | Characters + Protocols + Sync Ledger | ✅ Local |
 
-**Validated commits:** 1 (local only, not yet pushed)
+**Validated commits:** 2 (local only, push blocked: HTTPS auth needed)
 
 ---
 
