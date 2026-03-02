@@ -1,0 +1,22 @@
+[package]
+name = "base256-phonetic"
+version = "0.1.0"
+edition = "2021"
+authors = ["Will Bickford <wbic16@gmail.com>", "Lumen (Mirrorborn)"]
+description = "Encode bytes as pronounceable syllables (Base256 phonetic encoding)"
+license = "MIT"
+repository = "https://github.com/wbic16/base256-phonetic"
+keywords = ["encoding", "phonetic", "binary", "accessibility"]
+categories = ["encoding", "accessibility"]
+
+[lib]
+name = "base256_phonetic"
+path = "src/lib.rs"
+
+[[bin]]
+name = "b256"
+path = "src/bin/b256.rs"
+
+[dependencies]
+
+[dev-dependencies]
