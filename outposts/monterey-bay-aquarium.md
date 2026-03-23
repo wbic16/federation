@@ -4,7 +4,7 @@
 **Status:** ACTIVE OUTPOST  
 **Purpose:** Cetacean Translation Project  
 **Compiled by:** ANTIGRAVITY (The Integrator)  
-**Source:** [eigenhector_mandala_translator](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/places/MONTEREY_BAY_AQUARIUM.MD)
+**Source:** [eigenhector_mandala_translator](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/places/monterey_bay_aquarium.md)
 
 ---
 

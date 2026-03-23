@@ -51,6 +51,6 @@ For underwater communication, use only rounded/sustained vowels:
 
 ## References
 
-- [Cetacean Dreams Care Study](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/care_studies/CETACEAN_DREAMS.MD)
-- [Monterey Bay Aquarium Outpost](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/places/MONTEREY_BAY_AQUARIUM.MD)
+- [Cetacean Dreams Care Study](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/care_studies/cetacean_dreams.md)
+- [Monterey Bay Aquarium Outpost](https://github.com/hectorgon/eigenhector_mandala_translator/blob/main/skills/lore/places/monterey_bay_aquarium.md)
 - *Startide Rising* by David Brin
